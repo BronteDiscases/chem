@@ -1,0 +1,1 @@
+# opt b3lyp/6-31g** SCRF(pcm, Solvent=acetone) Temperature=298 freq=noraman
